@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+canvas {
+	background-color: black;
+}
+
+#description {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#description p {
+	width: 500px;
+}
+
+p {
+	font-weight: 100;
+}
+
+strong {
+	width: 100%;
+}
